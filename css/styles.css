@@ -4055,6 +4055,7 @@ textarea.form-control-lg {
   margin-right: 1rem;
   font-size: 1.25rem;
   text-decoration: none;
+  color: #fff;
   white-space: nowrap;
 }
 .navbar-nav {
@@ -11410,11 +11411,11 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/logo.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size:contain;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
